@@ -48,5 +48,6 @@ Try these projects directly in your browser:
 - **[Spreadsheet](https://github.com/sagardeepak671/spreadsheet)** — Browser spreadsheet powered by the Rust engine through WebAssembly. [Live Demo](https://sagardeepak671.github.io/spreadsheet/)
 - **[Spider-Man](https://github.com/sagardeepak671/Spider-Man)** — HTML5 browser game with villains and multi-world campaign gameplay. [Live Demo](https://sagardeepak671.github.io/Spider-Man/)
 - **[MyDSL](https://github.com/sagardeepak671/Custom-Programming-Language-in-OCaml/tree/cpp_dsl)** — C++17 language implementation with a CodeMirror browser editor. [Editor Demo](https://sagardeepak671.github.io/Custom-Programming-Language-in-OCaml/)
+- **[SAT-based Metro Routing](https://github.com/sagardeepak671/SAT-Based-Metro-Network-Routing)** — SAT solver for non-overlapping metro routes with an interactive SVG case visualizer. [Visualizer](https://sagardeepak671.github.io/SAT-Based-Metro-Network-Routing/)
 - **[RESCUE SAT Agent](https://github.com/sagardeepak671/rescue-sat-agent)** — Adaptive SAT learning experience. [Live Demo](https://rescue-sat-agent.vercel.app/)
 - **[Productivity Meter](https://github.com/sagardeepak671/prod-meter)** — Weekly planning, scoring, streaks, and analytics. [Live Demo](https://prodmeter.vercel.app/)
